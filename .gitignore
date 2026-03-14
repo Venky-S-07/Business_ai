@@ -1,0 +1,5 @@
+.env
+.zshrc
+__pycache__/
+*.csv
+.DS_Store
